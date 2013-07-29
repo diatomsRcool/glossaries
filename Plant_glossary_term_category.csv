@@ -1,6 +1,11 @@
 #Version: 
+#Glossary type: Plant
+#Source: fna_gloss_final_20130517 (merged from: fnagloss_fromHong_20130517125327, fna_glo)
+#Finalized by: Fengqiong Huang
+#Date: 
+#Reviewers: Heather Cole,Dr. Hong Cui,Stephanie Kha,Sonali Ranade,Jeff Saarela,Ishan Shah
+#Source producer: OTO System
 
-","","",""
 "term","category","hasSyn","sourceDataset","termID"
 "S-shaped","shape","0","fna_gloss_final_20130517","ee90297a-b491-43ab-968d-fc3cdb96dc13"
 "U-form","arrangement","0","fna_gloss_final_20130517","26c080c2-f69b-45e4-8aef-74cc0be76d16"
