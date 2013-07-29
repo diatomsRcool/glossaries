@@ -6,10 +6,3 @@
 #Reviewers: Walter Berendsohn,Jordan Biserkov,Terry Catapano,Dr. Hong Cui,Fengqiong Huang,Demo OTO,Sonali Ranade,Tony Walduck,Hui Yang,eckhard raab-straube
 #Source producer: OTO System
 
-"term","category","hasSyn","sourceDataset","termID"
-"alike","variability","0","OTO_Demo","a1f90ea0-efdc-11e2-b45f-0026b9326338"
-"adult","life_stage","0","OTO_Demo","a1f7ee94-efdc-11e2-b45f-0026b9326338"
-"aged","life_stage","1","OTO_Demo","a1f888ae-efdc-11e2-b45f-0026b9326338"
-"abundant","volume","0","OTO_Demo","2669fb3b-f4aa-11e2-af0f-00266c1d496f"
-"acrodromous","venation","0","OTO_Demo","d2db289e-7ba4-41ed-b1e7-dcc559a81563"
-"actinodromous","venation","0","OTO_Demo","8183458e-ddba-445c-b971-fd9a220a8c1c"
