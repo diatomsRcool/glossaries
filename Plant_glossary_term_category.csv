@@ -1,9 +1,9 @@
 #Version: 
 #Glossary type: Plant
-#Source: fna_gloss_final_20130517 (merged from: fnagloss_fromHong_20130517125327, fna_glo)
+#Source: fna_gloss_final_20130517 (merged from: fnagloss_fromHong_20130517125327, fna_glo), test_20130207094242
 #Finalized by: Fengqiong Huang
 #Date: 
-#Reviewers: Heather Cole,Dr. Hong Cui,Stephanie Kha,Sonali Ranade,Jeff Saarela,Ishan Shah
+#Reviewers: treatise  ,Heather Cole,Dr. Hong Cui,Stephanie Kha,Sonali Ranade,Jeff Saarela,Ishan Shah
 #Source producer: OTO System
 
 "term","category","hasSyn","sourceDataset","termID"
@@ -3474,3 +3474,42 @@
 "netted","pattern","0","fna_gloss_final_20130517","fccefe3f-8664-4fd6-a828-807750a658f4"
 "lineate","pattern","0","fna_gloss_final_20130517","a2fcbfe0-efdc-11e2-b45f-0026b9326338"
 "lineolate","pattern","0","fna_gloss_final_20130517","a2fce272-efdc-11e2-b45f-0026b9326338"
+"axils","structure","0","test_20130207094242","2db9444b-f871-11e2-af0f-00266c1d496f"
+"blades","structure","0","test_20130207094242","2db946d1-f871-11e2-af0f-00266c1d496f"
+"bracts","structure","0","test_20130207094242","2db9478d-f871-11e2-af0f-00266c1d496f"
+"capsules","structure","0","test_20130207094242","2db94834-f871-11e2-af0f-00266c1d496f"
+"chromosome","structure","0","test_20130207094242","2db94b7a-f871-11e2-af0f-00266c1d496f"
+"cush_ions","structure","0","test_20130207094242","2db94c36-f871-11e2-af0f-00266c1d496f"
+"cymes","structure","0","test_20130207094242","2db94cd9-f871-11e2-af0f-00266c1d496f"
+"filaments","structure","0","test_20130207094242","2db94d7b-f871-11e2-af0f-00266c1d496f"
+"flowers","structure","0","test_20130207094242","2db94e22-f871-11e2-af0f-00266c1d496f"
+"flowers:","structure","0","test_20130207094242","2db94ec0-f871-11e2-af0f-00266c1d496f"
+"hairs","structure","0","test_20130207094242","2db94f5a-f871-11e2-af0f-00266c1d496f"
+"inflorescences","structure","0","test_20130207094242","2db94ff4-f871-11e2-af0f-00266c1d496f"
+"internodes","structure","0","test_20130207094242","2db9508e-f871-11e2-af0f-00266c1d496f"
+"lines","structure","0","test_20130207094242","2db9512c-f871-11e2-af0f-00266c1d496f"
+"livermorensis","structure","0","test_20130207094242","2db951c2-f871-11e2-af0f-00266c1d496f"
+"margins","structure","0","test_20130207094242","2db9525c-f871-11e2-af0f-00266c1d496f"
+"mats","structure","0","test_20130207094242","2db952f2-f871-11e2-af0f-00266c1d496f"
+"nectaries","structure","0","test_20130207094242","2db9538c-f871-11e2-af0f-00266c1d496f"
+"nodes","structure","0","test_20130207094242","2db95421-f871-11e2-af0f-00266c1d496f"
+"pedicels","structure","0","test_20130207094242","2db954b7-f871-11e2-af0f-00266c1d496f"
+"petals","structure","0","test_20130207094242","2db95551-f871-11e2-af0f-00266c1d496f"
+"portion","structure","0","test_20130207094242","2db955eb-f871-11e2-af0f-00266c1d496f"
+"rhizomes","structure","0","test_20130207094242","2db95685-f871-11e2-af0f-00266c1d496f"
+"seeds","structure","0","test_20130207094242","2db9571f-f871-11e2-af0f-00266c1d496f"
+"sepals","structure","0","test_20130207094242","2db957b4-f871-11e2-af0f-00266c1d496f"
+"stamens","structure","0","test_20130207094242","2db9584e-f871-11e2-af0f-00266c1d496f"
+"staminodes","structure","0","test_20130207094242","2db9594b-f871-11e2-af0f-00266c1d496f"
+"stems","structure","0","test_20130207094242","2db959ed-f871-11e2-af0f-00266c1d496f"
+"styles","structure","0","test_20130207094242","2db95a83-f871-11e2-af0f-00266c1d496f"
+"surfaces","structure","0","test_20130207094242","2db95b21-f871-11e2-af0f-00266c1d496f"
+"taproots","structure","0","test_20130207094242","2db95bb7-f871-11e2-af0f-00266c1d496f"
+"tubercules","structure","0","test_20130207094242","2db95c51-f871-11e2-af0f-00266c1d496f"
+"veins","structure","0","test_20130207094242","2db95ce6-f871-11e2-af0f-00266c1d496f"
+"walls","structure","0","test_20130207094242","2db95d7c-f871-11e2-af0f-00266c1d496f"
+"pungent_tipped","architecture","0","test_20130207094242","2db95e16-f871-11e2-af0f-00266c1d496f"
+"mat_forming","habit","0","test_20130207094242","2db95eac-f871-11e2-af0f-00266c1d496f"
+"moss_like","habit","0","test_20130207094242","2db95f41-f871-11e2-af0f-00266c1d496f"
+"subsucculent","internal texture","0","test_20130207094242","2db95fdb-f871-11e2-af0f-00266c1d496f"
+"plump","size","0","test_20130207094242","2db96071-f871-11e2-af0f-00266c1d496f"
