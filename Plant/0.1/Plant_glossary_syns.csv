@@ -1,10 +1,9 @@
 #Version: 0.1
 #Glossary type: Plant
-#Source: OTO_Demo
-#Finalized by: Fengqiong Huang
-#Date: 
-#Reviewers: Walter Berendsohn,Jordan Biserkov,Terry Catapano,Dr. Hong Cui,Fengqiong Huang,Demo OTO,Sonali Ranade,Tony Walduck,Hui Yang,eckhard raab-straube
+#Source: fna_gloss_final_20130517 (merged from: fnagloss_fromHong_20130517125327, fna_glo)
+#Finalized by: Dr. Hong Cui
+#Date: 7/29/2013
+#Reviewers: Heather Cole,Dr. Hong Cui,Stephanie Kha,Sonali Ranade,Jeff Saarela,Ishan Shah
 #Source producer: OTO System
 
 "term","category","synonym","termID"
-"aged","life_stage","aging","a1f888ae-efdc-11e2-b45f-0026b9326338"
