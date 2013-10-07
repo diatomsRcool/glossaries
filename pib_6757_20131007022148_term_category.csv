@@ -1,0 +1,37 @@
+#Version: 
+#Glossary type: Hymenoptera
+#Source: pib_6757_20131007022148
+#Finalized by: Hong Cui
+#Date: 
+#Reviewers: Hong Cui
+#Source producer: OTO System
+
+"term","category","hasSyn","sourceDataset","termID"
+"rounded","shape","0","pib_6757_20131007022148","5a28ebf8-2f34-11e3-a402-0026b9326338"
+"curved","shape","0","pib_6757_20131007022148","5a29247e-2f34-11e3-a402-0026b9326338"
+"dimensions","character","0","pib_6757_20131007022148","5a2964de-2f34-11e3-a402-0026b9326338"
+"dorsolateral","position","0","pib_6757_20131007022148","5a29afd4-2f34-11e3-a402-0026b9326338"
+"high_domed","shape","0","pib_6757_20131007022148","149e25fc-21de-11e3-a402-0026b9326338"
+"nearest","position","0","pib_6757_20131007022148","5a29fa70-2f34-11e3-a402-0026b9326338"
+"shagreened","coloration","0","pib_6757_20131007022148","5a2a3af8-2f34-11e3-a402-0026b9326338"
+"transverse","orientation","0","pib_6757_20131007022148","5a2a7b3a-2f34-11e3-a402-0026b9326338"
+"ventrad","orientation","0","pib_6757_20131007022148","5a2ab398-2f34-11e3-a402-0026b9326338"
+"apices","structure","0","pib_6757_20131007022148","5a2aead4-2f34-11e3-a402-0026b9326338"
+"basin","structure","0","pib_6757_20131007022148","5a2b217a-2f34-11e3-a402-0026b9326338"
+"forewings","structure","0","pib_6757_20131007022148","5a2b62c0-2f34-11e3-a402-0026b9326338"
+"half","structure","0","pib_6757_20131007022148","5a2b94f2-2f34-11e3-a402-0026b9326338"
+"laterals","structure","0","pib_6757_20131007022148","5a2bd066-2f34-11e3-a402-0026b9326338"
+"lines","structure","0","pib_6757_20131007022148","5a2c04f0-2f34-11e3-a402-0026b9326338"
+"notaulary","structure","0","pib_6757_20131007022148","5a2c432a-2f34-11e3-a402-0026b9326338"
+"pocket","structure","0","pib_6757_20131007022148","5a2c7ac0-2f34-11e3-a402-0026b9326338"
+"ponerine","structure","0","pib_6757_20131007022148","5a2cba4e-2f34-11e3-a402-0026b9326338"
+"proctiger","structure","0","pib_6757_20131007022148","5a2cf946-2f34-11e3-a402-0026b9326338"
+"sides","structure","0","pib_6757_20131007022148","14a04e54-21de-11e3-a402-0026b9326338"
+"terminalia","structure","0","pib_6757_20131007022148","5a2d4f54-2f34-11e3-a402-0026b9326338"
+"terminalium","structure","0","pib_6757_20131007022148","5a2d922a-2f34-11e3-a402-0026b9326338"
+"volsellae","structure","0","pib_6757_20131007022148","5a2dcfb0-2f34-11e3-a402-0026b9326338"
+"rugulose","surface_sculpture","0","pib_6757_20131007022148","f9a84a04-2c85-11e3-a402-0026b9326338"
+"punctulate","surface_sculpture","0","pib_6757_20131007022148","5a2e4ea4-2f34-11e3-a402-0026b9326338"
+"cl","measure","0","pib_6757_20131007022148","5a2e7ca8-2f34-11e3-a402-0026b9326338"
+"tl","measure","0","pib_6757_20131007022148","5a2eaa48-2f34-11e3-a402-0026b9326338"
+"brownish","coloration","0","pib_6757_20131007022148","5a2ee68e-2f34-11e3-a402-0026b9326338"
