@@ -1,6 +1,6 @@
 #Version: 
 #Glossary type: Hymenoptera
-#Source: ant_gloss_20130517080844, test_01_oct_20131003163556, test_02_oct_20131003174543
+#Source: ant_gloss_20130517080844, test_01_oct_20131003163556, test_02_oct_20131003174543, pib_20597_20131007012620
 #Finalized by: Hong Cui
 #Date: 
 #Reviewers: Hong Cui,Sonali Ranade
@@ -579,3 +579,5 @@
 "retracted","size","retractile","14a5bbbe-21de-11e3-a402-0026b9326338"
 "closely_spaced","arrangement","closely spaced","14a5c30c-21de-11e3-a402-0026b9326338"
 "clean","condition","cleaner","14a5c5dc-21de-11e3-a402-0026b9326338"
+"reticulate_rugulose","surface_sculpture","reticulatepunctate","a44201b4-2f2c-11e3-a402-0026b9326338"
+"punctate_rugulose","surface_sculpture","rugulosepunctatc","149bd518-21de-11e3-a402-0026b9326338"
