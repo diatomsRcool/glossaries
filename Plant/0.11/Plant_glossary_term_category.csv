@@ -1,3 +1,12 @@
+#Version: 0.11
+#Glossary type: Plant
+#Source: fna_gloss_final_20130517 (merged from: fnagloss_fromHong_20130517125327, fna_glo)
+#Finalized by: Dr. Hong Cui
+#Date: 6/13/2013
+#Reviewers: Heather Cole,Dr. Hong Cui,Stephanie Kha,Sonali Ranade,Jeff Saarela,Ishan Shah
+#Source producer: OTO System
+
+"term","category","synonym","termID"
 "term","category","hasSyn","sourceDataset","termID","remarks"
 "abaxial","position","0","fna_gloss_final_20130517","465171d3-7d36-41b9-b93d-bdf8ca3e7a2c","active"
 "abortive","maturation","0","fna_gloss_final_20130517","0757c044-a9fa-467a-9df5-16eb8a927d58","active"
