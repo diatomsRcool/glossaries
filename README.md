@@ -3,8 +3,8 @@ glossaries
 
 Contribution
 ----------
-If you want to contribute, you can do so by using
-* OTO, which populates this repository programmatically
+If you want to contribute, you can do so by 
+* using OTO, which populates this repository programmatically
 * Manually update the repository following the conventions outlined below
 
 The glossaries are stored as CSV in a directory structure where
