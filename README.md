@@ -27,6 +27,7 @@ If you create a new `term_category` please follow the following schema
 
 "term","category","hasSyn","sourceDataset","termID"
 "my term", "my category", "0", "my source dataset", "some id"
+...
 ```
 
 Likewise for `syns`
@@ -41,6 +42,7 @@ Likewise for `syns`
 
 "term","category","synonym","termID"
 "my term", "my category", "my synonym", "some id"
+...
 ```
 
 
