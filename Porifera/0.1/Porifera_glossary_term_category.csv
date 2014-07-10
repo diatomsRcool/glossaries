@@ -3,8 +3,8 @@
 #Source: http://purl.obolibrary.org/obo/poro.owl
 #Finalized by: Elvis Wu
 #Date: 7/07/2014
-#Reviewers: 
-#Source producer: Extracted from  Porifera Ontology
+#Reviewers: Elvis Wu
+#Source producer: Extracted from Porifera Ontology
 
 "term","category","hasSyn","sourceDataset","termID"
 "fimbria","structure","0","OBO_PORO","http://purl.obolibrary.org/obo/PORO_0000310"
