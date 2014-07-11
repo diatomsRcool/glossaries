@@ -15,10 +15,10 @@ The glossaries are stored as CSV in a directory structure where
   * `glossary type`_glossary_syns.csv
 * A latest directory must exist on the second level with a duplicate of the files of the latest version
 
-If you create a new `term_category` please follow the following schema, where the #Version: value is required and has to match `glossary version`
+If you create a new `term_category` please follow the following schema, where the `glossary version` and `glossary type` are required
 ```
-#Version:
-#Glossary type: 
+#Version: `glossary version`
+#Glossary type: `glossary type`
 #Source: 
 #Finalized by: 
 #Date:
@@ -32,8 +32,8 @@ If you create a new `term_category` please follow the following schema, where th
 
 Likewise for `syns`
 ```
-#Version:
-#Glossary type: 
+#Version: `glossary version`
+#Glossary type: `glossary type`
 #Source: 
 #Finalized by: 
 #Date:
