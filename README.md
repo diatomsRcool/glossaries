@@ -15,7 +15,7 @@ The glossaries are stored as CSV in a directory structure where
   * `glossary type`_glossary_syns.csv
 * A latest directory must exist on the second level with a duplicate of the files of the latest version
 
-If you create a new `term_category` please follow the following schema, where the `glossary version` and `glossary type` are required. All lines are required, and hence line number 10 contains the first data.
+If you create a new `term_category` please follow the following schema, where the `glossary version` and `glossary type` are required. All lines are required, and hence line number 10 would contain the first data.
 ```
 #Version: `glossary version`
 #Glossary type: `glossary type`
