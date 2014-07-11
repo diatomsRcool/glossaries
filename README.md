@@ -21,6 +21,7 @@ If you create or modify `term_category` file please follow the following CSV sch
 * CSV values are seperated using comma `,`
 * CSV values are quoted using double quotes `"`
 * Quotes are escaped using a backslash `\`
+* No extra lines (e.g. empty lines) at the of the file
 * The files is encoded using UTF8
 
 For `term_category` this looks like
