@@ -1,10 +1,10 @@
-#Version: 0.1,,,,
-#Glossary type: Hymenoptera,,,,
-#Source: ant_gloss_20130517080844,,,,
-#Finalized by: Hong Cui,,,,
-#Date: 9/20/2013,,,,
-#Reviewers: Hong Cui,Sonali Ranade,,,
-#Source producer: OTO System,,,,
+#Version: 0.1
+#Glossary type: Hymenoptera
+#Source: ant_gloss_20130517080844
+#Finalized by: Hong Cui
+#Date: 9/20/2013
+#Reviewers: Hong Cui,Sonali Ranade
+#Source producer: OTO System
 
 term,category,hasSyn,sourceDataset,termID
 "absence","character",0,ant_gloss_20130517080844,"149aee8c-21de-11e3-a402-0026b9326338"
