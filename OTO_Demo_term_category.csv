@@ -1,11 +1,13 @@
 #Version: 
 #Glossary type: Plant
 #Source: OTO_Demo
-#Finalized by: Hong Cui
+#Finalized by: Fengqiong Huang
 #Date: 
-#Reviewers: Hong Cui
+#Reviewers: Fengqiong Huang
 #Source producer: OTO System
 
 "term","category","hasSyn","sourceDataset","termID"
-"contorted","arrangement","0","OTO_Demo","63b79873-06df-4f63-a72b-ed334519b650"
-"carinal","arrangement","1","OTO_Demo","5668b0d3-5bb8-4e1c-a6f8-c28fa204dda1"
+"plicate","architecture","0","OTO_Demo","7642209e-ebc4-43ee-b3b1-6731c96856ab"
+"torsive","architecture","0","OTO_Demo","c231b583-ff27-45dc-824e-8e5151b96fef"
+"vexillate","architecture","0","OTO_Demo","ebd2ab63-98eb-43ef-b118-e51c4b5535c7"
+"contortuplicate","arrangement","0","OTO_Demo","1b611c07-c0a8-4467-acf0-a34c3ff562b9"
