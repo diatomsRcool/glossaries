@@ -6,7 +6,6 @@
 #Reviewers: Heather Cole,Dr. Hong Cui,Stephanie Kha,Sonali Ranade,Jeff Saarela,Ishan Shah
 #Source producer: OTO System
 
-"term","category","synonym","termID"
 "term","category","hasSyn","sourceDataset","termID","remarks"
 "abaxial","position","0","fna_gloss_final_20130517","465171d3-7d36-41b9-b93d-bdf8ca3e7a2c","active"
 "abortive","maturation","0","fna_gloss_final_20130517","0757c044-a9fa-467a-9df5-16eb8a927d58","active"
@@ -3432,7 +3431,7 @@
 "wide","width","0","fna_gloss_final_20130517","e529711e-2192-42c0-bc1d-0063f463eb2c","active"
 "widened","width","0","fna_gloss_final_20130517","67ac5a62-d614-42e8-8735-9366c56265e6","active"
 "wider","width","0","fna_gloss_final_20130517","dae0e869-39cc-4670-afb4-cfada8801015","active"
-"widest","width","0","fna_gloss_final_20130517","f211e26c-21f3-4dea-8547-20aa2689e378","active"active
+"widest","width","0","fna_gloss_final_20130517","f211e26c-21f3-4dea-8547-20aa2689e378","active"
 "width","character","0","fna_gloss_final_20130517","d1810b27-75a5-448d-b604-9343cff61c74","active"
 "wind_pollinated","reproduction","0","fna_gloss_final_20130517","2b31341a-a191-49df-b9ea-aab2435a09a9","active"
 "wine","coloration","0","fna_gloss_final_20130517","a2a7e1c8-efdc-11e2-b45f-0026b9326338","active"
