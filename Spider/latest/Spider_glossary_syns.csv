@@ -67,7 +67,7 @@
 "copulatory_bulb","structure","genital_bulb","http://purl.obolibrary.org/obo/SPD_0000168"
 "copulatory_bulb","structure","bulbus","http://purl.obolibrary.org/obo/SPD_0000168"
 "copulatory_bulb","structure","palpal_organ","http://purl.obolibrary.org/obo/SPD_0000168"
-"sensory__organ","structure","sense_organ","http://purl.obolibrary.org/obo/SPD_0000650"
+"sensory_organ","structure","sense_organ","http://purl.obolibrary.org/obo/SPD_0000650"
 "2nd_opisthosomal_segment (epigastrium)","structure","epigastric_area","http://purl.obolibrary.org/obo/SPD_0000007"
 "thoracic_fovea","structure","pit","http://purl.obolibrary.org/obo/SPD_0000018"
 "thoracic_fovea","structure","thoracic_groove","http://purl.obolibrary.org/obo/SPD_0000018"
