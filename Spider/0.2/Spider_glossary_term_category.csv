@@ -1,6 +1,6 @@
 #Version: 0.2
 #Glossary type: Spider
-#Source: Spider Ontology (structures), Plant Glossary characters/states
+#Source: Spider Ontology (structure), Plant Glossary characters/states
 #Finalized by: Dongfang Xu
 #Date: 05-30-15
 #Reviewers: Dongfang Xu, Hong Cui
@@ -682,7 +682,6 @@
 "bar","structure","0","Spider Ontology Ramirez","tba"
 "barb","structure","0","Spider Ontology Ramirez","tba"
 "base","structure","0","Spider Ontology Ramirez","tba"
-"behavior","structure","0","Spider Ontology Ramirez","tba"
 "body","structure","0","Spider Ontology Ramirez","tba"
 "booklung","structure","0","Spider Ontology Ramirez","tba"
 "boss","structure","0","Spider Ontology Ramirez","tba"
@@ -693,7 +692,6 @@
 "cell","structure","0","Spider Ontology Ramirez","tba"
 "clasper","structure","0","Spider Ontology Ramirez","tba"
 "claw","structure","0","Spider Ontology Ramirez","tba"
-"color","structure","0","Spider Ontology Ramirez","tba"
 "comb","structure","0","Spider Ontology Ramirez","tba"
 "cover","structure","0","Spider Ontology Ramirez","tba"
 "coxa","structure","0","Spider Ontology Ramirez","tba"
@@ -724,7 +722,7 @@
 "genitalia","structure","0","Spider Ontology Ramirez","tba"
 "gland","structure","0","Spider Ontology Ramirez","tba"
 "glands","structure","0","Spider Ontology Ramirez","tba"
-"glue","structure","0","Spider Ontology Ramirez","tba"
+"glue","substance","0","Spider Ontology Ramirez","tba"
 "groove","structure","0","Spider Ontology Ramirez","tba"
 "hair","structure","0","Spider Ontology Ramirez","tba"
 "hematodocha","structure","0","Spider Ontology Ramirez","tba"
@@ -740,7 +738,6 @@
 "line","structure","0","Spider Ontology Ramirez","tba"
 "lobe","structure","0","Spider Ontology Ramirez","tba"
 "margin","structure","0","Spider Ontology Ramirez","tba"
-"mechanism","structure","0","Spider Ontology Ramirez","tba"
 "mesh","structure","0","Spider Ontology Ramirez","tba"
 "midgut","structure","0","Spider Ontology Ramirez","tba"
 "opening","structure","0","Spider Ontology Ramirez","tba"
@@ -758,7 +755,6 @@
 "plate","structure","0","Spider Ontology Ramirez","tba"
 "plug","structure","0","Spider Ontology Ramirez","tba"
 "pocket","structure","0","Spider Ontology Ramirez","tba"
-"positions","structure","0","Spider Ontology Ramirez","tba"
 "pretarsus","structure","0","Spider Ontology Ramirez","tba"
 "process","structure","0","Spider Ontology Ramirez","tba"
 "promargin","structure","0","Spider Ontology Ramirez","tba"
@@ -784,13 +780,11 @@
 "spigot","structure","0","Spider Ontology Ramirez","tba"
 "spinneret","structure","0","Spider Ontology Ramirez","tba"
 "spiracle","structure","0","Spider Ontology Ramirez","tba"
-"step","structure","0","Spider Ontology Ramirez","tba"
 "sternite","structure","0","Spider Ontology Ramirez","tba"
 "stomach","structure","0","Spider Ontology Ramirez","tba"
 "stopper","structure","0","Spider Ontology Ramirez","tba"
 "stripe","structure","0","Spider Ontology Ramirez","tba"
 "structure","structure","0","Spider Ontology Ramirez","tba"
-"substance","structure","0","Spider Ontology Ramirez","tba"
 "surface","structure","0","Spider Ontology Ramirez","tba"
 "suture","structure","0","Spider Ontology Ramirez","tba"
 "system","structure","0","Spider Ontology Ramirez","tba"
@@ -804,17 +798,14 @@
 "tooth","structure","0","Spider Ontology Ramirez","tba"
 "trachea","structure","0","Spider Ontology Ramirez","tba"
 "tracheae","structure","0","Spider Ontology Ramirez","tba"
-"tracheae)","structure","0","Spider Ontology Ramirez","tba"
 "triangle","structure","0","Spider Ontology Ramirez","tba"
 "trochanter","structure","0","Spider Ontology Ramirez","tba"
 "tube","structure","0","Spider Ontology Ramirez","tba"
 "tubercle","structure","0","Spider Ontology Ramirez","tba"
 "tubules","structure","0","Spider Ontology Ramirez","tba"
 "tuft","structure","0","Spider Ontology Ramirez","tba"
-"units","structure","0","Spider Ontology Ramirez","tba"
 "ventralis","structure","0","Spider Ontology Ramirez","tba"
 "web","structure","0","Spider Ontology Ramirez","tba"
-"wrap","structure","0","Spider Ontology Ramirez","tba"
 "s_shaped","shape","0","fna_gloss_final_20130517","ee90297a-b491-43ab-968d-fc3cdb96dc13"
 "u_form","arrangement","0","fna_gloss_final_20130517","26c080c2-f69b-45e4-8aef-74cc0be76d16"
 "v_form","arrangement","0","fna_gloss_final_20130517","58f9c182-54aa-467d-b24d-124b01256b1e"
@@ -7785,4 +7776,3 @@
 "transitional","architecture","0","fna2_v26_jing_20130314134608,foc_v22_jing_20130710082723,fna2_v3_jing_20130314110323,foc_v23_jing_20130507134321,foc_v13_jing_20130503115239,foc_v8_jing_20130430113241,foc_v8_jing_20130430091947","46ee9280-1ce7-11e4-990a-0026b9326338"
 "tetrasporic","derivation","0","fna2_v19_jing_20130227141308","46eecb38-1ce7-11e4-990a-0026b9326338"
 "succeeding","growth_order","0","foc_v22_jing_20130710082723","f61a23f2-1d08-11e4-990a-0026b9326338"
-
