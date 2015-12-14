@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:map="http://www.w3c.rl.ac.uk/2003/11/21-skos-mapping#" xmlns:dct="http://purl.org/dc/terms/"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<skos:ConceptScheme rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/">
+<dc:title>Habitat Thesaurus Created by 515 Students</dc:title>
+<dc:creator>Cui</dc:creator>
+<dc:contributor/>
+<dc:publisher/>
+<dc:rights/>
+<dc:subject/>
+<dc:description><![CDATA[  ]]></dc:description>
+<dc:date>2015-09-16</dc:date>
+<dct:modified>2015-12-05 22:16:35</dct:modified>
+<dc:language>en</dc:language>
+<skos:hasTopConcept rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=83">
+<skos:prefLabel xml:lang="en">alkaline plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=79">
+<skos:prefLabel xml:lang="en">alluvial plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=35">
+<skos:prefLabel xml:lang="en">arid</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest This term is a NT of climate.  Climate
+has not yet been entered.  Once climate is entered this term should be subordiated to Climate and
+the relationship to habitat should be deleted. ADW</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=45"/>
+<dct:created>2015-11-27 07:29:23</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=85">
+<skos:prefLabel xml:lang="en">arid plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=91">
+<skos:prefLabel xml:lang="en">arid rocky plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=26">
+<skos:prefLabel xml:lang="en">Atlantic coastal plain</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created 11/12/2015 by Alyssa Holmes</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=25"/>
+<dct:created>2015-11-16 00:04:18</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=235">
+<skos:prefLabel xml:lang="en">Atlantic islands</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=200">
+<skos:prefLabel xml:lang="en">bald head island</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=198"/>
+<dct:created>2015-12-09 02:38:22</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=50">
+<skos:prefLabel xml:lang="en">bank</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=49"/>
+<dct:created>2015-11-28 11:18:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=187">
+<skos:prefLabel xml:lang="en">bay</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+<dct:modified>2015-12-09 02:05:32</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=51">
+<skos:prefLabel xml:lang="en">bend</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=49"/>
+<dct:created>2015-11-28 11:18:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=107">
+<skos:prefLabel xml:lang="en">boreal plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=236">
+<skos:prefLabel xml:lang="en">bottomland forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=20">
+<skos:prefLabel xml:lang="en">California</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created by Alyssa Holmes 11/12/2015</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=19"/>
+<dct:created>2015-11-15 23:36:05</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=181">
+<skos:prefLabel xml:lang="en">canal</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=28">
+<skos:prefLabel xml:lang="en">canyon</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=27"/>
+<dct:created>2015-11-16 00:10:38</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=238">
+<skos:prefLabel xml:lang="en">Carribean</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=109">
+<skos:prefLabel xml:lang="en">clay plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=45">
+<skos:prefLabel xml:lang="en">climate</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=35"/>
+<dct:created>2015-11-27 08:51:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=116">
+<skos:prefLabel xml:lang="en">coastal plain</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Alicia Wrest</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=115"/>
+<dct:created>2015-11-28 12:18:55</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=71">
+<skos:prefLabel xml:lang="en">coastal plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=17">
+<skos:prefLabel xml:lang="en">coniferous forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=14"/>
+<dct:created>2015-11-05 07:03:31</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=22">
+<skos:prefLabel xml:lang="en">coniferous forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=24"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=23"/>
+<dct:created>2015-11-15 23:44:46</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=10">
+<skos:prefLabel xml:lang="en">coniferous forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=9"/>
+<dct:created>2015-11-05 06:54:44</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=223">
+<skos:prefLabel xml:lang="en">continental dune fields</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=222"/>
+<dct:created>2015-12-09 20:16:33</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=153">
+<skos:prefLabel xml:lang="en">Cotzur soils</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=138"/>
+<dct:created>2015-12-06 01:07:01</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=141">
+<skos:prefLabel xml:lang="en">Cotzur soils</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=140"/>
+<dct:created>2015-12-06 00:46:10</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=64">
+<skos:prefLabel xml:lang="en">countryside</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=63"/>
+<dct:created>2015-11-28 11:33:32</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=58">
+<skos:prefLabel xml:lang="en">countryside</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-11-28 11:27:48</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=30">
+<skos:prefLabel xml:lang="en">deciduous forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:historyNote xml:lang="en">This term is also a NT of woodlands.  Woodlands has not yet been
+entered.  Once woodlands is entered this term should be subordiated to that term.
+ADW</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-11-27 07:16:48</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=124">
+<skos:prefLabel xml:lang="en">deciduous forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=125"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=119"/>
+<dct:created>2015-12-05 22:10:01</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=18">
+<skos:prefLabel xml:lang="en">deciduous forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=15"/>
+<dct:created>2015-11-05 07:04:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=160">
+<skos:prefLabel xml:lang="en">deciduous woods</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=164"/>
+<dct:created>2015-12-06 01:24:01</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=103">
+<skos:prefLabel xml:lang="en">deflation plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=222">
+<skos:prefLabel xml:lang="en">dense red sands</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=225"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=226"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=223"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=224"/>
+<dct:created>2015-12-09 20:15:30</dct:created>
+<dct:modified>2015-12-09 20:17:44</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=131">
+<skos:prefLabel xml:lang="en">desert</skos:prefLabel>
+<skos:historyNote xml:lang="en">term created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=214"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=215"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=126"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=177"/>
+<dct:created>2015-12-05 23:42:37</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=213">
+<skos:prefLabel xml:lang="en">desert</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=212"/>
+<dct:created>2015-12-09 02:45:48</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=214">
+<skos:prefLabel xml:lang="en">desert canyon</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=131"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=218"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=217"/>
+<dct:created>2015-12-09 02:46:48</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=82">
+<skos:prefLabel xml:lang="en">desert plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=215">
+<skos:prefLabel xml:lang="en">desert valley</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=131"/>
+<dct:created>2015-12-09 02:46:48</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=180">
+<skos:prefLabel xml:lang="en">drainage basin</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=125">
+<skos:prefLabel xml:lang="en">dry deciduous forests</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=124"/>
+<dct:created>2015-12-05 22:16:35</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=145">
+<skos:prefLabel xml:lang="en">dry juniper woodlands</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=149"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=150"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=151"/>
+<dct:created>2015-12-06 00:52:00</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=74">
+<skos:prefLabel xml:lang="en">dry plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=96">
+<skos:prefLabel xml:lang="en">dry rocky plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=93">
+<skos:prefLabel xml:lang="en">dry sandy plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=99">
+<skos:prefLabel xml:lang="en">dry silt plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=25">
+<skos:prefLabel xml:lang="en">East coast</skos:prefLabel>
+<skos:historyNote xml:lang="en">term created by Alyssa Holmes on 11/12/2015</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=19"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=26"/>
+<dct:created>2015-11-16 00:03:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=4">
+<skos:prefLabel xml:lang="en">Estuary</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=5"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=6"/>
+<dct:created>2015-11-05 06:43:34</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=8">
+<skos:prefLabel xml:lang="en">estuary</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term added 11/05/15 by Alyssa Holmes Term edited 11/12/2015 by
+Alyssa Holmes</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=29"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-11-05 06:49:20</dct:created>
+<dct:modified>2015-12-09 02:05:45</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=190">
+<skos:prefLabel xml:lang="en">fjord</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=239">
+<skos:prefLabel xml:lang="en">fjordlands</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=112">
+<skos:prefLabel xml:lang="en">flat plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=70">
+<skos:prefLabel xml:lang="en">flood plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2">
+<skos:prefLabel xml:lang="en">forest</skos:prefLabel>
+<skos:scopeNote xml:lang="en"> created by Allison Herrera   </skos:scopeNote>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=62"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=236"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=22"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=30"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=199"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=198"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=14"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=31"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=192"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=36"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=122"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=118"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=179"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=63"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=178"/>
+<dct:created>2015-11-05 00:16:54</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=191">
+<skos:prefLabel xml:lang="en">forests</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=227"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=229"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=228"/>
+<dct:created>2015-12-09 02:11:42</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=204">
+<skos:prefLabel xml:lang="en">fresh lake</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=211"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=201"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=207"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=209"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=206"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=208"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=210"/>
+<dct:created>2015-12-09 02:39:49</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=19">
+<skos:prefLabel xml:lang="en">Geographic Region</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created 11/12/15 by Alyssa Holmes</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=20"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=25"/>
+<dct:created>2015-11-15 23:35:19</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=27">
+<skos:prefLabel xml:lang="en">gorges</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created 11/12/2015 by Alyssa Holmes</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=28"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-11-16 00:10:05</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=218">
+<skos:prefLabel xml:lang="en">grand canyon</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=214"/>
+<dct:created>2015-12-09 02:47:24</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=231">
+<skos:prefLabel xml:lang="en">grass plains</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=90">
+<skos:prefLabel xml:lang="en">grass plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=174">
+<skos:prefLabel xml:lang="en">Grasslands</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=175"/>
+<dct:created>2015-12-06 22:24:37</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=123">
+<skos:prefLabel xml:lang="en">grassy open places</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-05 22:06:48</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=87">
+<skos:prefLabel xml:lang="en">grassy plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=197">
+<skos:prefLabel xml:lang="en">grassy tundra</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=196"/>
+<dct:created>2015-12-09 02:19:32</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=88">
+<skos:prefLabel xml:lang="en">gravelly plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=78">
+<skos:prefLabel xml:lang="en">great plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=175">
+<skos:prefLabel xml:lang="en">Great Plains Grasslands</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=174"/>
+<dct:created>2015-12-06 22:26:14</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=176">
+<skos:prefLabel xml:lang="en">Great Plains Grasslands</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-12-06 22:28:36</dct:created>
+<dct:modified>2015-12-06 23:47:18</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=114">
+<skos:prefLabel xml:lang="en">grounds</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=113"/>
+<dct:created>2015-11-28 11:58:53</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1">
+<skos:prefLabel xml:lang="en">habitat</skos:prefLabel>
+<skos:historyNote xml:lang="en">created by Hong Cui</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=235"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=236"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=238"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=45"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=10"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=124"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=131"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=145"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=239"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=191"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=19"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=27"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=231"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=174"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=123"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=237"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=39"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=126"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=234"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=43"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=230"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=232"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=212"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=139"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=48"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=162"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=46"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=144"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=115"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=146"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=42"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=226"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=194"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=21"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=113"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=49"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=138"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=132"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=233"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=13"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=38"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=134"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=196"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=140"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=137"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=44"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-10-24 13:46:49</dct:created>
+<dct:modified>2015-10-24 13:48:12</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=188">
+<skos:prefLabel xml:lang="en">harbor</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+<dct:modified>2015-12-09 02:05:54</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=237">
+<skos:prefLabel xml:lang="en">hemlock canopies</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=199">
+<skos:prefLabel xml:lang="en">hemlock forest</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<dct:created>2015-12-09 02:21:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=75">
+<skos:prefLabel xml:lang="en">high plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=12">
+<skos:prefLabel xml:lang="en">High Tide</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created 11/05/2015 by Alyssa Holmes </skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<dct:created>2015-11-05 06:57:27</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=52">
+<skos:prefLabel xml:lang="en">hillside</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=49"/>
+<dct:created>2015-11-28 11:18:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=182">
+<skos:prefLabel xml:lang="en">hot spring</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=5">
+<skos:prefLabel xml:lang="en">inlet</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=4"/>
+<dct:created>2015-11-05 06:45:28</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=29">
+<skos:prefLabel xml:lang="en">inlet,sound</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=8"/>
+<dct:created>2015-11-16 00:11:28</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=111">
+<skos:prefLabel xml:lang="en">interior plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=108">
+<skos:prefLabel xml:lang="en">intermountain plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=147">
+<skos:prefLabel xml:lang="en">juniper woodlands</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-12-06 00:55:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=149">
+<skos:prefLabel xml:lang="en">juniper woodlands</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=145"/>
+<dct:created>2015-12-06 01:00:31</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=186">
+<skos:prefLabel xml:lang="en">lagoons</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=201">
+<skos:prefLabel xml:lang="en">lake</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=204"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=205"/>
+<dct:created>2015-12-09 02:39:32</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=207">
+<skos:prefLabel xml:lang="en">lake baikal</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=204"/>
+<dct:created>2015-12-09 02:40:21</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=209">
+<skos:prefLabel xml:lang="en">lake ladoga</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=204"/>
+<dct:created>2015-12-09 02:40:21</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=39">
+<skos:prefLabel xml:lang="en">lake shores</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest  </skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-11-27 07:30:23</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=206">
+<skos:prefLabel xml:lang="en">lake superior</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=204"/>
+<dct:created>2015-12-09 02:40:21</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=208">
+<skos:prefLabel xml:lang="en">lake titicaca</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=204"/>
+<dct:created>2015-12-09 02:40:21</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=210">
+<skos:prefLabel xml:lang="en">lake victoria</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=204"/>
+<dct:created>2015-12-09 02:40:21</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=127">
+<skos:prefLabel xml:lang="en">lower sonoran desert</skos:prefLabel>
+<skos:scopeNote xml:lang="en">term created by Hanni Nabahe</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=126"/>
+<dct:created>2015-12-05 22:58:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=126">
+<skos:prefLabel xml:lang="en">lower Sonoran zones</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=127"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=131"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=132"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=128"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=129"/>
+<dct:created>2015-12-05 22:57:35</dct:created>
+<dct:modified>2015-12-06 00:44:19</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=68">
+<skos:prefLabel xml:lang="en">lowland</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:46:31</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=169">
+<skos:prefLabel xml:lang="en">lowland forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=166"/>
+<dct:created>2015-12-06 01:34:55</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=221">
+<skos:prefLabel xml:lang="en">lowland forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<dct:created>2015-12-09 20:13:03</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=167">
+<skos:prefLabel xml:lang="en">lowland forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=164"/>
+<dct:created>2015-12-06 01:32:36</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=198">
+<skos:prefLabel xml:lang="en">maritime forest</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=200"/>
+<dct:created>2015-12-09 02:20:29</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=234">
+<skos:prefLabel xml:lang="en">maritime habitats</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=172">
+<skos:prefLabel xml:lang="en">maritime mud flats</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=44"/>
+<dct:created>2015-12-06 22:17:11</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=43">
+<skos:prefLabel xml:lang="en">marsh</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=34"/>
+<dct:created>2015-11-27 08:51:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=230">
+<skos:prefLabel xml:lang="en">marshy streams</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=217">
+<skos:prefLabel xml:lang="en">melnik desert canyon</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=214"/>
+<dct:created>2015-12-09 02:47:24</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=170">
+<skos:prefLabel xml:lang="en">mesic deciduous forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=168"/>
+<dct:created>2015-12-06 01:38:11</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=14">
+<skos:prefLabel xml:lang="en">mesic deciduous forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created 11/05/2015 by Alyssa Holmes</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=17"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<dct:created>2015-11-05 07:02:42</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=171">
+<skos:prefLabel xml:lang="en">mesic forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=168"/>
+<dct:created>2015-12-06 01:38:53</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=220">
+<skos:prefLabel xml:lang="en">mesic forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<dct:created>2015-12-09 20:13:03</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=166">
+<skos:prefLabel xml:lang="en">mesic forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=169"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=168"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=162"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=164"/>
+<dct:created>2015-12-06 01:32:36</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=232">
+<skos:prefLabel xml:lang="en">mesophytic wood</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=240">
+<skos:prefLabel xml:lang="en">mesophytic wood</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-12-16 01:42:09</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=212">
+<skos:prefLabel xml:lang="en">mesquite flat</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=213"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-09 02:45:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=193">
+<skos:prefLabel xml:lang="en">mid-montane forest</skos:prefLabel>
+<skos:scopeNote xml:lang="en">written by Xiang gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=192"/>
+<dct:created>2015-12-09 02:12:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=139">
+<skos:prefLabel xml:lang="en">mineral soils</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=140"/>
+<dct:created>2015-12-06 00:22:38</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=155">
+<skos:prefLabel xml:lang="en">mineral soils</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=138"/>
+<dct:created>2015-12-06 01:07:42</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=31">
+<skos:prefLabel xml:lang="en">moist woods</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:historyNote xml:lang="en">This term is also a NT of woodlands.  Woodlands has not yet been
+entered.  Once woodlands is entered this term should be subordiated to woodlands.
+ADW</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-11-27 07:19:24</dct:created>
+<dct:modified>2015-11-27 07:19:41</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=11">
+<skos:prefLabel xml:lang="en">montane coniferous forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term added by Alyssa Holmes 11/05/2015</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<dct:created>2015-11-05 06:55:08</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=24">
+<skos:prefLabel xml:lang="en">montane coniferous forest</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term added by Alyssa Holmes 11/12/2015</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=22"/>
+<dct:created>2015-11-15 23:45:31</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=9">
+<skos:prefLabel xml:lang="en">montane coniferous forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created by Alyssa Holmes 11/05/2015</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=10"/>
+<dct:created>2015-11-05 06:54:01</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=192">
+<skos:prefLabel xml:lang="en">montane forest</skos:prefLabel>
+<skos:scopeNote xml:lang="en">writen by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=193"/>
+<dct:created>2015-12-09 02:12:12</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=48">
+<skos:prefLabel xml:lang="en">ocean</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=40"/>
+<dct:created>2015-11-27 08:51:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=203">
+<skos:prefLabel xml:lang="en">ocean</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 02:39:32</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=227">
+<skos:prefLabel xml:lang="en">oligotrophic soils</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=191"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=229"/>
+<dct:created>2015-12-09 20:21:19</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=162">
+<skos:prefLabel xml:lang="en">open deciduous forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=161"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=166"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=168"/>
+<dct:created>2015-12-06 01:26:37</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=161">
+<skos:prefLabel xml:lang="en">open deciduous woods</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=162"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-12-06 01:25:55</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=164">
+<skos:prefLabel xml:lang="en">open deciduous woods</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=163"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=160"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=167"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=166"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=165"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=168"/>
+<dct:created>2015-12-06 01:29:25</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=101">
+<skos:prefLabel xml:lang="en">open dry plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=73">
+<skos:prefLabel xml:lang="en">open plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=92">
+<skos:prefLabel xml:lang="en">open sand plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=100">
+<skos:prefLabel xml:lang="en">open sandy plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=195">
+<skos:prefLabel xml:lang="en">open savanna</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=194"/>
+<dct:created>2015-12-09 02:18:27</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=81">
+<skos:prefLabel xml:lang="en">outwash plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=173">
+<skos:prefLabel xml:lang="en">peat based pocosins</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=44"/>
+<dct:created>2015-12-06 22:21:37</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=46">
+<skos:prefLabel xml:lang="en">peat swamp</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=36"/>
+<dct:created>2015-11-27 08:51:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=36">
+<skos:prefLabel xml:lang="en">peats</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest This term is a NT of wetland, peat
+swamp, and forest.  None of these terms have yet been entered.  Once these terms are entered peats
+term should be subordiated to these erms and the relationship to habitat should be deleted.
+ADW</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=46"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=44"/>
+<dct:created>2015-11-27 07:29:37</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=54">
+<skos:prefLabel xml:lang="en">pine/oak woodlands</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-11-28 11:21:43</dct:created>
+<dct:modified>2015-11-28 11:41:34</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=144">
+<skos:prefLabel xml:lang="en">pinyon/juniper woodlands</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-06 00:51:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=56">
+<skos:prefLabel xml:lang="en">pinyon/juniper woodlands</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-11-28 11:23:00</dct:created>
+<dct:modified>2015-11-28 11:42:02</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=150">
+<skos:prefLabel xml:lang="en">pinyon/juniper woodlands</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=145"/>
+<dct:created>2015-12-06 01:02:14</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=115">
+<skos:prefLabel xml:lang="en">plain</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Alicia Wrest</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=116"/>
+<dct:created>2015-11-28 12:09:32</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66">
+<skos:prefLabel xml:lang="en">plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=68"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=115"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=69"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=83"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=79"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=85"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=91"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=107"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=109"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=71"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=103"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=82"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=74"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=96"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=93"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=99"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=112"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=70"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=90"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=87"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=88"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=78"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=176"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=75"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=111"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=108"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=101"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=73"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=92"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=100"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=81"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=105"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=86"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=80"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=77"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=104"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=76"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=84"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=97"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=72"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=94"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=110"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=89"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=102"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=95"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=106"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=98"/>
+<dct:created>2015-11-28 11:45:53</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=69">
+<skos:prefLabel xml:lang="en">plateau</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:46:31</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=183">
+<skos:prefLabel xml:lang="en">pond</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=146">
+<skos:prefLabel xml:lang="en">pure juniper woodlands</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-12-06 00:53:45</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=151">
+<skos:prefLabel xml:lang="en">pure juniper woodlands</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=145"/>
+<dct:created>2015-12-06 01:02:14</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=105">
+<skos:prefLabel xml:lang="en">rabittbrush plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=225">
+<skos:prefLabel xml:lang="en">red earths</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=222"/>
+<dct:created>2015-12-09 20:17:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=184">
+<skos:prefLabel xml:lang="en">reservoir</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=86">
+<skos:prefLabel xml:lang="en">rio grande plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=202">
+<skos:prefLabel xml:lang="en">river</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 02:39:32</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=42">
+<skos:prefLabel xml:lang="en">river</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=33"/>
+<dct:created>2015-11-27 08:51:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=80">
+<skos:prefLabel xml:lang="en">river flood plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=33">
+<skos:prefLabel xml:lang="en">riverbanks</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest The broader term of river not yet
+entered.  This term will need to be subordinated to the term river and the relationship between this
+term and habitat will need to be deleted upon entry of the BT river.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=42"/>
+<dct:created>2015-11-27 07:27:01</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=77">
+<skos:prefLabel xml:lang="en">rocky plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=229">
+<skos:prefLabel xml:lang="en">rocky subalpine forests</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=191"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=227"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=228"/>
+<dct:created>2015-12-09 20:23:22</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=104">
+<skos:prefLabel xml:lang="en">sage plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=76">
+<skos:prefLabel xml:lang="en">sagebrush plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=205">
+<skos:prefLabel xml:lang="en">salt lake</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=201"/>
+<dct:created>2015-12-09 02:39:55</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=211">
+<skos:prefLabel xml:lang="en">salt lake</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=204"/>
+<dct:created>2015-12-09 02:41:03</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=34">
+<skos:prefLabel xml:lang="en">salt marshes</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest This term is a NT of marsh and
+wetland.  Neither marsh nor wetland has yet been entered.  Once mash and wetland are entered this
+term should be subordiated to marsh and wetland and the relationship to habitat should be deleted.
+ADW</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=43"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=44"/>
+<dct:created>2015-11-27 07:29:10</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=84">
+<skos:prefLabel xml:lang="en">sand plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=226">
+<skos:prefLabel xml:lang="en">sands</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Hanni Nabahe</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=222"/>
+<dct:created>2015-12-09 20:19:26</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=97">
+<skos:prefLabel xml:lang="en">sandy clay plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=177">
+<skos:prefLabel xml:lang="en">sandy desert flats</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=131"/>
+<dct:created>2015-12-06 22:30:37</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=72">
+<skos:prefLabel xml:lang="en">sandy plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=94">
+<skos:prefLabel xml:lang="en">sandy rocky plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=158">
+<skos:prefLabel xml:lang="en">savanna</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=134"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=157"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=156"/>
+<dct:created>2015-12-06 01:13:29</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=159">
+<skos:prefLabel xml:lang="en">savanna</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=137"/>
+<dct:created>2015-12-06 01:14:36</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=194">
+<skos:prefLabel xml:lang="en">savanna</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term created Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=195"/>
+<dct:created>2015-12-09 02:16:41</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=135">
+<skos:prefLabel xml:lang="en">savanna</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=134"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=136"/>
+<dct:created>2015-12-06 00:15:06</dct:created>
+<dct:modified>2015-12-06 00:16:00</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=40">
+<skos:prefLabel xml:lang="en">sea</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest This term is a NT of ocean.  Ocean has
+not yet been entered.  Once ocean is entered this term should be subordiated to ocean and the
+relationship to habitat should be deleted. ADW</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=48"/>
+<dct:created>2015-11-27 07:30:35</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=110">
+<skos:prefLabel xml:lang="en">silt plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=21">
+<skos:prefLabel xml:lang="en">Sinkhole</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term created by Alyssa Holmes 11/12/15</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-11-15 23:42:31</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=113">
+<skos:prefLabel xml:lang="en">site</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=114"/>
+<dct:created>2015-11-28 11:58:36</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=49">
+<skos:prefLabel xml:lang="en">slopes</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=50"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=51"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=52"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-11-28 11:17:31</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=138">
+<skos:prefLabel xml:lang="en">soils</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=155"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=153"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=154"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=152"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=140"/>
+<dct:created>2015-12-06 00:21:27</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=132">
+<skos:prefLabel xml:lang="en">Sonoran desert</skos:prefLabel>
+<skos:historyNote xml:lang="en">term created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=126"/>
+<dct:created>2015-12-05 23:42:37</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=6">
+<skos:prefLabel xml:lang="en">sound</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=4"/>
+<dct:created>2015-11-05 06:45:28</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=224">
+<skos:prefLabel xml:lang="en">spinifex sand plains</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=222"/>
+<dct:created>2015-12-09 20:16:33</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=233">
+<skos:prefLabel xml:lang="en">spruce bog</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-12-16 01:28:06</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=122">
+<skos:prefLabel xml:lang="en">spruce fir communities</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<dct:created>2015-12-05 21:58:31</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=154">
+<skos:prefLabel xml:lang="en">Spukwush soils</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=138"/>
+<dct:created>2015-12-06 01:07:11</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=142">
+<skos:prefLabel xml:lang="en">Spukwush soils</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=140"/>
+<dct:created>2015-12-06 00:46:10</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=89">
+<skos:prefLabel xml:lang="en">stony plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=189">
+<skos:prefLabel xml:lang="en">strait</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=102">
+<skos:prefLabel xml:lang="en">subsaline plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=13">
+<skos:prefLabel xml:lang="en">Subtropical</skos:prefLabel>
+<skos:historyNote xml:lang="en">Term created 11/05/2015 by Alyssa Holmes </skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-11-05 07:01:37</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=128">
+<skos:prefLabel xml:lang="en">subtropical desert</skos:prefLabel>
+<skos:historyNote xml:lang="en">term created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=126"/>
+<dct:created>2015-12-05 23:18:55</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=185">
+<skos:prefLabel xml:lang="en">swamp</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7"/>
+<dct:created>2015-12-09 01:59:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=38">
+<skos:prefLabel xml:lang="en">swamp</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest This term is a NT of wetland.  Wetland
+has not yet been entered.  Once wetland is entered this term should be subordiated to wetland and
+the relationship to habitat should be deleted. ADW</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<dct:created>2015-11-27 07:30:12</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=163">
+<skos:prefLabel xml:lang="en">temperate deciduous forests</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=164"/>
+<dct:created>2015-12-06 01:29:05</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=129">
+<skos:prefLabel xml:lang="en">thorn savanna</skos:prefLabel>
+<skos:historyNote xml:lang="en">term created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=126"/>
+<dct:created>2015-12-05 23:18:55</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=134">
+<skos:prefLabel xml:lang="en">transitional ecosystem</skos:prefLabel>
+<skos:historyNote xml:lang="en">created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=135"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=158"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=157"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=156"/>
+<dct:created>2015-12-06 00:13:34</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=95">
+<skos:prefLabel xml:lang="en">treeless stony plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=118">
+<skos:prefLabel xml:lang="en">Tropical Deciduous Forests</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<dct:created>2015-12-05 21:47:13</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=119">
+<skos:prefLabel xml:lang="en">Tropical Deciduous Forests</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=124"/>
+<dct:created>2015-12-05 21:48:30</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=196">
+<skos:prefLabel xml:lang="en">tundra</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term created by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=197"/>
+<dct:created>2015-12-09 02:18:56</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=228">
+<skos:prefLabel xml:lang="en">upper tree line</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Created by Hanni Nabahe</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=191"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=229"/>
+<dct:created>2015-12-09 20:21:19</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=106">
+<skos:prefLabel xml:lang="en">volcanic plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=143">
+<skos:prefLabel xml:lang="en">volcanic soils</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=140"/>
+<dct:created>2015-12-06 00:48:10</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=152">
+<skos:prefLabel xml:lang="en">volcanic soils</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=138"/>
+<dct:created>2015-12-06 01:03:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=140">
+<skos:prefLabel xml:lang="en">volcanic tuffaceous soils</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=143"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=139"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=138"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=141"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=142"/>
+<dct:created>2015-12-06 00:45:05</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=7">
+<skos:prefLabel xml:lang="en">water body</skos:prefLabel>
+<skos:scopeNote xml:lang="en">writen by Xiang Gao</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=187"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=181"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=180"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=8"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=190"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=188"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=182"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=186"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=201"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=203"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=183"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=184"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=202"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=189"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=185"/>
+<dct:created>2015-11-05 06:49:01</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=15">
+<skos:prefLabel xml:lang="en">wet coniferous forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">note to follow Alyssa Holmes</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=18"/>
+<dct:created>2015-11-05 07:02:42</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=23">
+<skos:prefLabel xml:lang="en">wet coniferous forest</skos:prefLabel>
+<skos:scopeNote xml:lang="en">Term added by Alyssa Holmes 11/12/2015</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=22"/>
+<dct:created>2015-11-15 23:45:02</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=137">
+<skos:prefLabel xml:lang="en">wet grassy meadows</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=136"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=159"/>
+<dct:created>2015-12-06 00:19:11</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=157">
+<skos:prefLabel xml:lang="en">wet grassy meadows</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=156"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=134"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=158"/>
+<dct:created>2015-12-06 01:11:44</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=156">
+<skos:prefLabel xml:lang="en">wet grassy slopes</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=157"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=134"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=158"/>
+<dct:created>2015-12-06 01:10:40</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=136">
+<skos:prefLabel xml:lang="en">wet grassy slopes</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=137"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=135"/>
+<dct:created>2015-12-06 00:17:57</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=98">
+<skos:prefLabel xml:lang="en">wet sand plains</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=66"/>
+<dct:created>2015-11-28 11:56:58</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=44">
+<skos:prefLabel xml:lang="en">wetland</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=172"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=173"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=36"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=34"/>
+<dct:created>2015-11-27 08:51:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=179">
+<skos:prefLabel xml:lang="en">White Spruce woods</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<dct:created>2015-12-06 22:33:17</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=63">
+<skos:prefLabel xml:lang="en">wood</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=65"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=64"/>
+<dct:created>2015-11-28 11:33:03</dct:created>
+<dct:modified>2015-11-28 11:33:18</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=65">
+<skos:prefLabel xml:lang="en">woodland</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=63"/>
+<dct:created>2015-11-28 11:34:21</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=60">
+<skos:prefLabel xml:lang="en">woodland</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-11-28 11:30:11</dct:created>
+<dct:modified>2015-11-28 11:30:28</dct:modified>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=62">
+<skos:prefLabel xml:lang="en">woodland</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<dct:created>2015-11-28 11:32:12</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41">
+<skos:prefLabel xml:lang="en">woodlands</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Alicia Diaz Wrest</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=60"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=61"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=1"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=58"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=30"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=160"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=145"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=147"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=232"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=240"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=31"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=161"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=164"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=54"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=56"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=146"/>
+<skos:narrower rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=148"/>
+<dct:created>2015-11-27 08:51:50</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=148">
+<skos:prefLabel xml:lang="en">woods</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-12-06 00:57:29</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=61">
+<skos:prefLabel xml:lang="en">woods</skos:prefLabel>
+<skos:scopeNote xml:lang="en">created by Allison Herrera</skos:scopeNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=41"/>
+<dct:created>2015-11-28 11:31:03</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=219">
+<skos:prefLabel xml:lang="en">xeric forest</skos:prefLabel>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<dct:created>2015-12-09 20:13:03</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=165">
+<skos:prefLabel xml:lang="en">xeric forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=164"/>
+<dct:created>2015-12-06 01:32:36</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=168">
+<skos:prefLabel xml:lang="en">xeric forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Created by Hanni Nabahe</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=170"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=166"/>
+<skos:related rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=171"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=162"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=164"/>
+<dct:created>2015-12-06 01:34:55</dct:created>
+</skos:Concept>
+<skos:Concept rdf:about="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=178">
+<skos:prefLabel xml:lang="en">yellow pine forest</skos:prefLabel>
+<skos:historyNote xml:lang="en">Entered by Allison Harvey.</skos:historyNote>
+<skos:inScheme rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/"/>
+<skos:broader rdf:resource="http://biobeta.sbs.arizona.edu/tematres/vocab/?tema=2"/>
+<dct:created>2015-12-06 22:32:19</dct:created>
+</skos:Concept>
+</rdf:RDF>
