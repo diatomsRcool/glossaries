@@ -1,4 +1,4 @@
 glossaries
 ==========
-test
+DO NOT EDIT ANYTHING IN THIS FOLDER
 

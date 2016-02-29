@@ -1,9 +1,38 @@
 #Version: 
 #Glossary type: Plant
-#Source: fna_gloss_final_20130517 (merged from: fnagloss_fromHong_20130517125327, fna_glo)
-#Finalized by: Dr. Hong Cui
+#Source: fna_gloss_final_20130517 (merged from: fnagloss_fromHong_20130517125327, fna_glo), Plant_fna_foc (merged from: foc_v9_jing_20130501080458, Plant_fna_jing_v19_v20 (merged from: fna2_v19_jing_20130227141308, fna2_v20_jing_20130228082452), foc_v8_jing_20130430113241, foc_v10_jing_20130409171802, foc_v11_jing_20130502111907, foc_v12_jing_20130502141840, foc_v13_jing_20130503115239, foc_v14_jing_20130506091135, foc_v18_jing_20130711164425, foc_v2021_jing_20130507150953, foc_v22_jing_20130710082723, foc_v23_jing_20130507134321, foc_v24_jing_20130711072108, foc_v25_jing_20130508081633, foc_v4_jing_20130416123440, foc_v5_jing_20130425141012, foc_v6_jing_20130515110950, foc_v7_jing_20130426135157, foc_v8_jing_20130430091947, fna2_v21_jing_20130228140000, fna2_v22_jing_20130301080941, fna2_v23_jing_20130301113018, fna2_v26_jing_20130314134608, fna2_v27_jing_20130314153702, fna2_v2_jing_20130402084106, fna2_v3_jing_20130314110323, fna2_v4_jing_20130225160038, fna2_v5_jing_20130226072402, fna2_v7_jing_20130226143722, fna2_v8_jing_20130227093016)
+#Finalized by: Fengqiong Huang
 #Date: 
-#Reviewers: Heather Cole,Dr. Hong Cui,Stephanie Kha,Sonali Ranade,Jeff Saarela,Ishan Shah
+#Reviewers: treatise  ,Gordon Burleigh,Heather Cole,Heather Cole,Hong Cui,Lorena  Endara,Stephanie Kha,Sonali Ranade,Jeff Saarela,Ishan Shah
 #Source producer: OTO System
 
 "term","category","synonym","termID"
+"scars","structure","cicatrices","1707921a-47c7-11e3-a402-0026b9326338"
+"pinelike","odor","piny","438b9250-1ce7-11e4-990a-0026b9326338"
+"sour","taste","sour_tasting","435e6e4c-1ce7-11e4-990a-0026b9326338"
+"scurfy","pubescence","scurfy_pubescent","451c8c46-1ce7-11e4-990a-0026b9326338"
+"lanate","pubescence","lanate_pubescent","70e2d50e-7cad-41d9-a5a9-5c7f9cfb29ca"
+"villous","pubescence","villoso","80f4d553-5490-4272-8c56-26a9ad1b42fd"
+"villous","pubescence","villous_pubescent","80f4d553-5490-4272-8c56-26a9ad1b42fd"
+"coriaceous","pubescence","leathery","99b12cfb-58a5-483e-b574-8c900262527a"
+"sericeous","pubescence","sericeous_pubescent","6abc258a-6f1e-4362-9f2e-b9f3353277a4"
+"small","size","small_sized","48ce0624-a4ac-4767-bd66-5f82b2176c09"
+"tetragonal","shape","tetragonous","452b7bca-1ce7-11e4-990a-0026b9326338"
+"semilobate","shape","semilobed","452c6166-1ce7-11e4-990a-0026b9326338"
+"bristle_tipped","architecture","bristly_tipped","45369028-1ce7-11e4-990a-0026b9326338"
+"sour_sweet_tasting","taste","sweet_sour","435e42be-1ce7-11e4-990a-0026b9326338"
+"brainlike","shape","cerebriform","45ad3bc4-1ce7-11e4-990a-0026b9326338"
+"funnel","shape","funnelform","45ae1d14-1ce7-11e4-990a-0026b9326338"
+"glomerule_like","shape","glomeruliform","45ae5c2a-1ce7-11e4-990a-0026b9326338"
+"crescent_based","shape","crescentiform","44f80c22-1ce7-11e4-990a-0026b9326338"
+"velutinous","pubescence","velutinous_pubescent","23ce130e-a9c6-4b55-bd70-3aaa3eeaffd1"
+"velutinous","pubescence","velvety_pubescent","23ce130e-a9c6-4b55-bd70-3aaa3eeaffd1"
+"empty","architecture","vacant","45ef261a-1ce7-11e4-990a-0026b9326338"
+"unscented","odor","scentless","439eea6c-1ce7-11e4-990a-0026b9326338"
+"trinerved","architecture","trinervate","46065272-1ce7-11e4-990a-0026b9326338"
+"echlorophyllous","architecture","nonchlorophyllose","46231966-1ce7-11e4-990a-0026b9326338"
+"zig_zag","course","zigzag","466b8db8-1ce7-11e4-990a-0026b9326338"
+"glandular","architecture","adenose","5c490ab3-9de6-49bc-a20a-e7ca22d7e005"
+"abnormal","variability","aberrant","467ffa6e-1ce7-11e4-990a-0026b9326338"
+"feathered","shape","feathery","46d2fb1a-1ce7-11e4-990a-0026b9326338"
+"immobile","fixation","immovable","45fe28f4-1ce7-11e4-990a-0026b9326338"

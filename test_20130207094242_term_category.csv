@@ -1,0 +1,48 @@
+#Version: 
+#Glossary type: Plant
+#Source: test_20130207094242
+#Finalized by: Hong Cui
+#Date: 
+#Reviewers: treatise  ,Hong Cui
+#Source producer: OTO System
+
+"term","category","hasSyn","sourceDataset","termID"
+"axils","structure","0","test_20130207094242","91abe67e-668a-11e3-af11-0026b9326338"
+"blades","structure","0","test_20130207094242","16f98e86-47c7-11e3-a402-0026b9326338"
+"bracts","structure","0","test_20130207094242","e9c50a66-66ad-11e3-af11-0026b9326338"
+"capsules","structure","0","test_20130207094242","e9c55048-66ad-11e3-af11-0026b9326338"
+"chromosome","structure","0","test_20130207094242","16fbe050-47c7-11e3-a402-0026b9326338"
+"cush_ions","structure","0","test_20130207094242","a92d2c1c-16b7-11e4-990a-0026b9326338"
+"cymes","structure","0","test_20130207094242","a92d73d4-16b7-11e4-990a-0026b9326338"
+"filaments","structure","0","test_20130207094242","a92dc0fa-16b7-11e4-990a-0026b9326338"
+"flowers","structure","0","test_20130207094242","e9c7366a-66ad-11e3-af11-0026b9326338"
+"flowers:","structure","0","test_20130207094242","a92e4ade-16b7-11e4-990a-0026b9326338"
+"hairs","structure","0","test_20130207094242","14818dcc-47c5-11e3-a402-0026b9326338"
+"inflorescences","structure","0","test_20130207094242","a92eab64-16b7-11e4-990a-0026b9326338"
+"internodes","structure","0","test_20130207094242","17015008-47c7-11e3-a402-0026b9326338"
+"lines","structure","0","test_20130207094242","1702205a-47c7-11e3-a402-0026b9326338"
+"livermorensis","structure","0","test_20130207094242","a92f0fd2-16b7-11e4-990a-0026b9326338"
+"margins","structure","0","test_20130207094242","1482a7f2-47c5-11e3-a402-0026b9326338"
+"mats","structure","0","test_20130207094242","1702f71e-47c7-11e3-a402-0026b9326338"
+"nectaries","structure","0","test_20130207094242","1704785a-47c7-11e3-a402-0026b9326338"
+"nodes","structure","0","test_20130207094242","91b47c30-668a-11e3-af11-0026b9326338"
+"pedicels","structure","0","test_20130207094242","e9c97e5c-66ad-11e3-af11-0026b9326338"
+"petals","structure","0","test_20130207094242","e9c9c5d8-66ad-11e3-af11-0026b9326338"
+"portion","structure","0","test_20130207094242","6a03268a-9a76-11e3-b592-0026b9326338"
+"rhizomes","structure","0","test_20130207094242","1706fd64-47c7-11e3-a402-0026b9326338"
+"seeds","structure","0","test_20130207094242","14859d54-47c5-11e3-a402-0026b9326338"
+"sepals","structure","0","test_20130207094242","e9cd20a2-66ad-11e3-af11-0026b9326338"
+"stamens","structure","0","test_20130207094242","a930654e-16b7-11e4-990a-0026b9326338"
+"staminodes","structure","0","test_20130207094242","a930b698-16b7-11e4-990a-0026b9326338"
+"stems","structure","0","test_20130207094242","71f57ec8-4667-11e3-a402-0026b9326338"
+"styles","structure","0","test_20130207094242","a931164c-16b7-11e4-990a-0026b9326338"
+"surfaces","structure","0","test_20130207094242","1486f4a6-47c5-11e3-a402-0026b9326338"
+"taproots","structure","0","test_20130207094242","a93163c2-16b7-11e4-990a-0026b9326338"
+"tubercules","structure","0","test_20130207094242","a931b674-16b7-11e4-990a-0026b9326338"
+"veins","structure","0","test_20130207094242","1487d088-47c5-11e3-a402-0026b9326338"
+"walls","structure","0","test_20130207094242","170a3c40-47c7-11e3-a402-0026b9326338"
+"pungent_tipped","architecture","0","test_20130207094242","a9321c4a-16b7-11e4-990a-0026b9326338"
+"mat_forming","habit","0","test_20130207094242","a932706e-16b7-11e4-990a-0026b9326338"
+"moss_like","habit","0","test_20130207094242","a932be0c-16b7-11e4-990a-0026b9326338"
+"subsucculent","internal_texture","0","test_20130207094242","a9331578-16b7-11e4-990a-0026b9326338"
+"plump","size","0","test_20130207094242","a93357cc-16b7-11e4-990a-0026b9326338"

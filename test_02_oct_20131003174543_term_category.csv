@@ -1,0 +1,27 @@
+#Version: 
+#Glossary type: Hymenoptera
+#Source: test_02_oct_20131003174543
+#Finalized by: Hong Cui
+#Date: 
+#Reviewers: Hong Cui
+#Source producer: OTO System
+
+"term","category","hasSyn","sourceDataset","termID"
+"larger","size","0","test_02_oct_20131003174543","f99caf00-2c85-11e3-a402-0026b9326338"
+"count","character","0","test_02_oct_20131003174543","0cf163bc-2c8f-11e3-a402-0026b9326338"
+"smaller","size","0","test_02_oct_20131003174543","f9a379f2-2c85-11e3-a402-0026b9326338"
+"ci","structure","0","test_02_oct_20131003174543","0cf1c744-2c8f-11e3-a402-0026b9326338"
+"class","structure","0","test_02_oct_20131003174543","0cf1fe08-2c8f-11e3-a402-0026b9326338"
+"classes","structure","0","test_02_oct_20131003174543","0cf234d6-2c8f-11e3-a402-0026b9326338"
+"el","structure","0","test_02_oct_20131003174543","0cf26136-2c8f-11e3-a402-0026b9326338"
+"fl","structure","0","test_02_oct_20131003174543","0cf28d82-2c8f-11e3-a402-0026b9326338"
+"hl","structure","0","test_02_oct_20131003174543","0cf2b9a6-2c8f-11e3-a402-0026b9326338"
+"hw","structure","0","test_02_oct_20131003174543","0cf2e958-2c8f-11e3-a402-0026b9326338"
+"males","structure","0","test_02_oct_20131003174543","0cf31dec-2c8f-11e3-a402-0026b9326338"
+"mi","structure","0","test_02_oct_20131003174543","0cf34a9c-2c8f-11e3-a402-0026b9326338"
+"ml","structure","0","test_02_oct_20131003174543","0cf37742-2c8f-11e3-a402-0026b9326338"
+"pathways","structure","0","test_02_oct_20131003174543","0cf3b004-2c8f-11e3-a402-0026b9326338"
+"pw","structure","0","test_02_oct_20131003174543","0cf3dce6-2c8f-11e3-a402-0026b9326338"
+"si","structure","0","test_02_oct_20131003174543","0cf40a0e-2c8f-11e3-a402-0026b9326338"
+"teeth","structure","0","test_02_oct_20131003174543","0cf43e0c-2c8f-11e3-a402-0026b9326338"
+"wl","structure","0","test_02_oct_20131003174543","0cf46e36-2c8f-11e3-a402-0026b9326338"
