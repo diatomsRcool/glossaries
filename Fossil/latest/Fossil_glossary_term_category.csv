@@ -1,11 +1,11 @@
-#Version: 0.1,,,,
-#Glossary type: Fossil,,,,
-#Source: treatise_gloss (merged from: treatise_o, treati),,,
-#Finalized by: Dr. Hong Cui,,,,
-#Date: 9/12/2013,,,,
+#Version: 0.1
+#Glossary type: Fossil
+#Source: treatise_gloss (merged from: treatise_o, treati)
+#Finalized by: Dr. Hong Cui
+#Date: 9/12/2013
 #Reviewers: treatise  ,Dr. Hong Cui,Mohan Krishna Gowda,Fengqiong Huang,Sonali Ranade
-#Source producer: OTO System,,,,
-,,,,
+#Source producer: OTO System
+
 term,category,hasSyn,sourceDataset,termID
 sized,size,0,treatise_gloss,38f911ea-1bb8-11e3-a402-0026b9326338
 small,size,0,treatise_gloss,38f9146a-1bb8-11e3-a402-0026b9326338

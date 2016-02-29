@@ -1,11 +1,11 @@
-#Version: 0.1,,,
-#Glossary type: Hymenoptera,,,
-#Source: ant_gloss_20130517080844,,,
-#Finalized by: Hong Cui,,,
-#Date: 9/20/2013,,,
-#Reviewers: Hong Cui,Sonali Ranade,,
-#Source producer: OTO System,,,
-,,,
+#Version: 0.1
+#Glossary type: Hymenoptera
+#Source: ant_gloss_20130517080844
+#Finalized by: Hong Cui
+#Date: 9/20/2013
+#Reviewers: Hong Cui,Sonali Ranade
+#Source producer: OTO System
+
 term,category,synonym,termID
 abundance,density,abundant,149af0ee-21de-11e3-a402-0026b9326338
 acute_angular,shape,acute_angulate,149af1d4-21de-11e3-a402-0026b9326338
