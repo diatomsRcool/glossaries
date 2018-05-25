@@ -7,3 +7,10 @@
 #Source producer: Anne Thessen
 
 "term","category","synonym","termID"
+"thecate","armored"
+"canal_plate","structure","x-plate"
+"epicone","structure","epitheca"
+"epicone","structure","episome"
+"hypocone","structure","hypotheca"
+"hypocone","structure","hyposome"
+"chloroplast","structure","chromatophore"
